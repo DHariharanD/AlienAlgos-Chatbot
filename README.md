@@ -1,10 +1,10 @@
 # Mental Health Chatbot (GP2-based)
 
 ## Overview
-The Mental Health Chatbot is an AI-powered conversational agent designed to assist users with mental health support. Built using a GP2 model, it provides responses to user queries while maintaining a sensitive and supportive tone. The chatbot operates on a Python backend with a Streamlit UI, offering an accessible and interactive experience for users.
+The Mental Health Chatbot is an AI-powered conversational agent designed to assist users with mental health support. Built using a GTP2 model, it provides responses to user queries while maintaining a sensitive and supportive tone. The chatbot operates on a Python backend with a Streamlit UI, offering an accessible and interactive experience for users.
 
 ## Features
-- **Natural Language Processing**: Uses a GP2 model to generate responses.
+- **Natural Language Processing**: Uses a GPT2 model to generate responses.
 - **User-Friendly UI**: Built using Streamlit for a smooth and interactive experience.
 - **Mental Health Focus**: Provides responses related to mental well-being.
 - **Easy Deployment**: Can be hosted locally or on a cloud platform.
